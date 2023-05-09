@@ -26,7 +26,7 @@ Sua função é verificar se um número de cartão é válido ou não quando o u
 
 A ideia inicial era do usuário inserir todos os campos do cartão, conforme a imagem abaixo:
 
-![Protótipo]([https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png](https://i.imgur.com/E3iJC9A.jpg)
+![Protótipo](https://i.imgur.com/E3iJC9A.jpg)
 
 Porém, para facilitar a experiência, o projeto final consiste em ter que inserir apenas o número do cartão.
 
